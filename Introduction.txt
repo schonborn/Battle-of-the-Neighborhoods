@@ -1,0 +1,3 @@
+Introduction/Business Problem
+
+There are many fans of Indian and Thai food where I live but there seem to be very few Indian and Thai restaurants.  I will use Foursquare to determine which neighborhoods already have such restaurants (or not!).  This will show where they are needed.  
